@@ -1,6 +1,8 @@
 # logisim-iitd
 Automatically exported from code.google.com/p/logisim-iitd
 
+Logisim is an educational tool for designing and simulating digital logic circuits. With its simple toolbar interface and simulation of circuits as you build them, it is simple enough to facilitate learning the most basic concepts related to logic circuits. With the capacity to build larger circuits from smaller subcircuits, and performing decimal as well as floating point calculations, Logisim can be used to design and simulate entire CPU's for educational purposes.
+
 Originally created BY C. Burch, we have adopted Georgia tech's version of Logisim and integrated the Floating-Point Components within the Arithmetic Unit. Since the earlier version could be used only for integer numbers, this new Logisim-IITD can be used to do arithmetic operations even for IEEE-754 single precision floating point numbers with the help of functions like:
 
 * `FPAdder`: Adds two Floating point numbers. 
