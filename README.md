@@ -1,5 +1,5 @@
 # logisim-iitd
-Automatically exported from code.google.com/p/logisim-iitd
+https://sourceforge.net/projects/logisim-iitd/
 
 Logisim is an educational tool for designing and simulating digital logic circuits. With its simple toolbar interface and simulation of circuits as you build them, it is simple enough to facilitate learning the most basic concepts related to logic circuits. With the capacity to build larger circuits from smaller subcircuits, and performing decimal as well as floating point calculations, Logisim can be used to design and simulate entire CPU's for educational purposes.
 
